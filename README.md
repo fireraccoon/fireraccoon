@@ -8,6 +8,11 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 ### 🕶 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### ✨ Top Repositories
