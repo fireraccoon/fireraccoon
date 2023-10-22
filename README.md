@@ -10,11 +10,11 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 <!--START_SECTION:waka-->
 
 ```txt
-TeX              6 hrs 59 mins   ███████████▒░░░░░░░░░░░░░   45.03 %
-YAML             1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Markdown         1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-OpenEdge ABL     1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Java             58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+TeX              6 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   42.86 %
+Markdown         1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+YAML             1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+OpenEdge ABL     1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+Java             59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->
