@@ -10,7 +10,7 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 <!--START_SECTION:waka-->
 
 ```txt
-TeX              10 hrs 16 mins  ███████████▓░░░░░░░░░░░░░   46.80 %
+TeX              10 hrs 16 mins  ███████████▓░░░░░░░░░░░░░   46.78 %
 Objective-C      2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
 Markdown         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 YAML             1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
