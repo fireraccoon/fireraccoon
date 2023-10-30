@@ -10,11 +10,11 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            3 hrs 16 mins   ██████████████▓░░░░░░░░░░   58.11 %
-Objective-C    1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Java           27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-TypeScript     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-OpenEdge ABL   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Objective-C    1 hr 28 mins    ████████████▒░░░░░░░░░░░░   49.88 %
+Python         32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+Java           21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+TeX            14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+TypeScript     13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->
