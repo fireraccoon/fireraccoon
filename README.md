@@ -10,11 +10,11 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          52 mins         ████████████████▓░░░░░░░░   66.39 %
-Java         15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-HTML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-TypeScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+TeX          52 mins         █████████████████░░░░░░░░   67.61 %
+Java         14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+HTML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+TypeScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
