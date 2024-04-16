@@ -10,10 +10,11 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 <!--START_SECTION:waka-->
 
 ```txt
-Python     23 hrs 11 mins  ████████████████████████▓   99.29 %
-Other      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-CSV        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python     31 hrs 8 mins   ████████████████████████▓   98.22 %
+JSON       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Other      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+CSV        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
