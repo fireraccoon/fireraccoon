@@ -10,7 +10,10 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX      33 mins         ███████████████████████▓░   94.83 %
+Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
