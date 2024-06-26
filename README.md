@@ -10,11 +10,11 @@ I am fireraccoon, a developer passionate about both front-end and back-end devel
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          10 hrs 33 mins  ████████░░░░░░░░░░░░░░░░░   32.31 %
-Svelte            7 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
-TypeScript        4 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Python            3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Java              2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Svelte            7 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
+Markdown          6 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+TypeScript        3 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Java              2 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Python            2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
